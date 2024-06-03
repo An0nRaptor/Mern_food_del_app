@@ -1,0 +1,25 @@
+# POST http://localhost:5000/api/user/register
+# Content-Type: application/json
+
+# {
+#         "name":"Test7",
+#         "email":"TEST7@gmail.com",
+#         "password":"SonuTestt2@1234"
+# }
+
+POST http://localhost:5000/api/user/login
+Content-Type: application/json
+
+{
+
+        "email":"Rahulyadav@gmail.com",
+        "password":"Rahulyadav@123"
+}
+
+# POST http://localhost:5000/api/cart/add
+# Content-Type: application/json
+
+# {
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NDIyY2IxYmYzY2MwZDU4Nzg4YTc4YiIsImlhdCI6MTcxNTY5OTA3NX0.HYu5noQvRRqMM_s9iE_DnK1CULMsMdIx0kse9lc-B9M
+# }
